@@ -1,0 +1,10 @@
+{
+    "makefile.makefilePath": "Makefile",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/malcolm/fat32_viewer/target",
+            "binaryPath": "/Users/malcolm/fat32_viewer/target/view",
+            "binaryArgs": []
+        }
+    ]
+}
